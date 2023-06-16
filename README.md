@@ -1,6 +1,8 @@
 # FreeCodeCamp Projects Repository
 This repository serves as a storage space for my completed projects from FreeCodeCamp. Each time I finish a project, I upload it here to track my progress and showcase my work.
 
+![freeCodeCamp](https://github.com/hellojeremyonly/freecodecamp/assets/128933625/e177fd48-94ee-440b-a131-df5c65a9db45)
+
 # Table of Contents
 <ul>
   <li>Introduction</li>

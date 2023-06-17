@@ -39,5 +39,8 @@ This repository is open-source and is licensed under the <a href="https://openso
 Thank you for visiting my open-source FreeCodeCamp projects repository! I hope you find the projects useful and inspiring. Together, let's continue to learn, collaborate, and make a positive impact in the world of programming. If you have any questions or suggestions, please feel free to reach out.
 
 #
-Author: <b>Jeremy</b><br>
-<a href="https://www.freecodecamp.org/hellojeremyonly"> <i>Please click here to view my profile on freeCodeCamp.</i> 
+Author: <b>Jeremy</b> <br>
+<i>Click on the icon to view my profile on freeCodeCamp.</i> 
+<a href="https://www.freecodecamp.org/hellojeremyonly">![icons8-free-code-camp-48](https://github.com/hellojeremyonly/freecodecamp/assets/128933625/095f9302-6f85-4f6a-a629-9598569a97ac)
+
+

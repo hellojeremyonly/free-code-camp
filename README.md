@@ -10,7 +10,7 @@ This repository serves as a storage space for my completed projects from FreeCod
 </ul>
 
 # Introduction
-FreeCodeCamp is an amazing platform that provides free online courses and coding challenges to help individuals learn and enhance their programming skills. As I progress through the FreeCodeCamp curriculum, I complete various projects to apply what I have learned. This repository showcases these projects, encouraging collaboration and knowledge sharing within the open-source community.
+FreeCodeCamp is an amazing platform that provides free online courses and coding challenges to help individuals learn and enhance their programming skills. As I progress through the FreeCodeCamp curriculum, I complete various projects to apply what I have learned. 
 
 # Projects
 This repository contains a collection of completed FreeCodeCamp projects. Each project is stored in its own dedicated folder and includes all the necessary files and resources to run and understand the project. 
